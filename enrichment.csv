@@ -1,0 +1,29 @@
+2024-04-16,Test Locale Enablement,"- Test locale enablement on web and mobile from discovery to post booking
+- attended one on one with mentor
+- attended review cnm and xpe cost meeting
+- attended finalize release item meeting"
+2024-04-17,Jmeter Load Test,"- do assessment on Jmeter load test for new product
+- attended on call recap"
+2024-04-18,Merge Some Locale Enablement,"- merge new locale enablement to master
+- attended task sizing meeting"
+2024-04-19,Continue Next Sprint Task,"- learn deeper about jmeter
+- learn load testing from previous example
+- attended xpe task assignment meeting"
+2024-04-22,Locale Enablement,"- update SRS library to add new locale
+- add new locale popularity score"
+2024-04-23,Spring Boot Migration,"- learn spring boot implementation on other service
+- start migrating top level component to spring boot"
+2024-04-24,Test Locale Enablement,"- cherry-pick all locale enablement related to staging to support testing
+- check srs for product popularity score"
+2024-04-25,Done Test Locale Enablement,"- make sure all product has popularity score on srs when using new locale
+- make sure all product have new country on valid country configuration"
+2024-04-26,Reassess Jmeter,"- consult which method is best for load test new service
+- start create documentation about the load test
+- test jmeter with dummy endpoint"
+2024-04-29,Test Real New Service,"- test directly to staging environment of new service api
+- continue migrating service to springboot"
+2024-04-30,Load Test Tool,"- start load test on sdet tool
+- finishing springboot migration
+- attended one on one meeting with mentor
+- attended demand tech excellence regroup meeting
+- attended finalize release item"
