@@ -1,29 +1,50 @@
-2024-04-16,Test Locale Enablement,"- Test locale enablement on web and mobile from discovery to post booking
-- attended one on one with mentor
-- attended review cnm and xpe cost meeting
-- attended finalize release item meeting"
-2024-04-17,Jmeter Load Test,"- do assessment on Jmeter load test for new product
-- attended on call recap"
-2024-04-18,Merge Some Locale Enablement,"- merge new locale enablement to master
-- attended task sizing meeting"
-2024-04-19,Continue Next Sprint Task,"- learn deeper about jmeter
-- learn load testing from previous example
-- attended xpe task assignment meeting"
-2024-04-22,Locale Enablement,"- update SRS library to add new locale
-- add new locale popularity score"
-2024-04-23,Spring Boot Migration,"- learn spring boot implementation on other service
-- start migrating top level component to spring boot"
-2024-04-24,Test Locale Enablement,"- cherry-pick all locale enablement related to staging to support testing
-- check srs for product popularity score"
-2024-04-25,Done Test Locale Enablement,"- make sure all product has popularity score on srs when using new locale
-- make sure all product have new country on valid country configuration"
-2024-04-26,Reassess Jmeter,"- consult which method is best for load test new service
-- start create documentation about the load test
-- test jmeter with dummy endpoint"
-2024-04-29,Test Real New Service,"- test directly to staging environment of new service api
-- continue migrating service to springboot"
-2024-04-30,Load Test Tool,"- start load test on sdet tool
-- finishing springboot migration
+2024-05-02,Merge Locale Enablement,"- merge all locale enablement PRs
+- test spring boot migrated service on staging
+- continue load test"
+2024-05-03,Continue Spring Boot Migration,"- find a way to change log layout for log4j2
+- attended sprint task sizing meeting"
+2024-05-06,Bug Investigation,"- investigate backdated call to other service
+- continue springboot migration"
+2024-05-07,Tex Regroup,"- attended on call weekly recap meeting
+- attendend demand tech excellence regroup meeting
+- find a way to test on local"
+2024-05-08,Continue Spring Boot Migration,"- attended one on one meeting with team lead
+- start springboot migration for xpeijob"
+2024-05-10,Merge load test script,"- merge load test script
+- continue springboot migration for xpeijob"
+2024-05-13,Springboot migration,- continue springboot migration for xpeijob
+2024-05-14,Understanding local staging,"- test xpebi on local staging
+- continue springboot migration for xpebi"
+2024-05-15,Backdated request coordination,"- attended deepdive local staging meeting
+- continue springboot migration for xpebi
+- coordination with other team regarding backdated request bug"
+2024-05-16,Merge springboot migration for xpebi,"- merge springboot migration for xpebi to be release
+- continue springboot migration for xpeijob
+- attended sprint task sizing meeting"
+2024-05-17,Test Springboot Migration on Staging,"- test xpijob springboot migration on staging
+- start xpetrpd springboot migration"
+2024-05-20,Start New Sprint Task,"- fix coupon config tool bug when there is duplicate code
+- fix NPE on mybooking
+- test local staging xpetrpd springboot migration"
+2024-05-21,Continue Bug Fix,"- fix where to redeem not showing on booking reminder email
 - attended one on one meeting with mentor
-- attended demand tech excellence regroup meeting
-- attended finalize release item"
+- attended monthly retrospective meeting
+- attended tex regroup meeting"
+2024-05-22,BPNG Slack Notification,"- start xpeprdt springboot migration
+- fix failed sales delivery slack notification
+- pre-release preparation apply terraform"
+2024-05-24,Test Staging,"- release new xpetrpd, xpeprdt, xpebook terraform config
+- update xpeijob, xpetrpd, xpeprdt, xpebook terraform module source
+- test staging backdated call to pot
+- test staging bug duplicate key coupon wallet"
+2024-05-27,Test Staging,- test booking email reminder redemption location empty
+2024-05-28,Test Staging,"- test xpeijob springboot migration on staging env
+- resolve problem when migrated xpeijob service is up on staging
+- merge xpeijob and xpetrpd springboot migration"
+2024-05-29,Support Testing,"- resolve xpeijob missing lifecycle after springboot migration
+- support qa testing email booking remainder"
+2024-05-30,BPNG Queue,"- set up DLQ for BPNG integration
+- update ack logic for BPNG queue"
+2024-05-31,BPNG,"- cherry pick BPNG changes to be released
+- attended sprint planning meeting
+- attended xpe task assignment"
