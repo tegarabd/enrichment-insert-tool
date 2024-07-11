@@ -1,3 +1,5 @@
+import time
+
 from insert_logbook import insert
 import csv
 
@@ -15,3 +17,4 @@ with open('enrichment.csv', mode='r')as file:
     for lines in csvFile:
         logbook = convert_to_logbook(lines)
         insert(logbook)
+        time.sleep(1)
